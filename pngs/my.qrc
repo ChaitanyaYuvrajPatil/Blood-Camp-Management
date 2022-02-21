@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>administrator.png</file>
+    <file>Login_img.png</file>
+    <file>Approve.png</file>
+    <file>Donor.png</file>
+    <file>volunteer-icon-29234.png</file>
+    <file>blood-drop.png</file>
+    <file>blood.png</file>
+    <file>developer.png</file>
+    <file>2931142_minimize_minus_remove_line_icon.png</file>
+    <file>close.png</file>
+    <file>icons8-home-24.png</file>
+    <file>blood-donation.png</file>
+  </qresource>
+  <qresource/>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix"/>
+  <qresource/>
+</RCC>
